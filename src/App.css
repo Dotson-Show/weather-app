@@ -92,3 +92,7 @@ p {
         padding: 40px 20%;
     }
 }
+
+.text-white {
+    color: white;
+}
